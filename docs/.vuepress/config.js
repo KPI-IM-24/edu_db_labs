@@ -15,7 +15,7 @@ module.exports = {
     }]
   ],
   port: 3030,
-  base: '/db-2023-course-work/',
+  base: '/edu_db_labs/',
   theme: 'cool',
   // dest: 'dist',
   head: [
